@@ -88,6 +88,7 @@ const pizzas = [
 
 const catalogo = [
   { name: "Pizza Napolitana", image: "/public/pizzanapolitana.jpeg" },
+  { name: "Pizza Mediterranea", image: "/public/pizzamediterranea.jpg"}
 ]
 
 const getPizzaRoute = (pizzaName: string) => {
